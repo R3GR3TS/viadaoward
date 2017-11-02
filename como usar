@@ -1,0 +1,15 @@
+Para funcionar, é nescessario a instalação do Python3.6 ou superior.
+Para instalar Python3.6 no Linux!
+	Abra o Terminal, e digite:
+	sudo apt install python3.6
+	sudo apt-get update
+
+Windows ou MacOs:
+	Acesse:
+	www.python.org
+
+O programa pode ser executado via terminal pelo comando:
+	python3.6 viadãoaward.py
+
+Ou simplesmente executando em uma idle de python3.6.
+
