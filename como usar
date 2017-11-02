@@ -9,6 +9,7 @@ Windows ou MacOs:
 	www.python.org
 
 O programa pode ser executado via terminal pelo comando:
+	cd diretorio_do_arquivo_viadãoaward.py
 	python3.6 viadãoaward.py
 
 Ou simplesmente executando em uma idle de python3.6.
