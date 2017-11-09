@@ -52,7 +52,7 @@ if vencedor == 'MISTER':
     print('\033[1;32;mINACREDITAVEL...\033[m')
     sleep(1)
     print('\033[1;33;m-=-\033[m' * 29)
-    print('\033[1;32;mO PODER DE VIADAGEM DESSE CARA É + DE 8000...\033[m')
+    print('\033[1;32;mO PODER DE VIADAGEM DESSE CARA É MAIS DE 8000...\033[m')
     sleep(1)
     print('\033[1;33;m-=-\033[m' * 29)
     print('\033[1;32;mO GRANDE VENCEDOR DA NOITE É O VIADÃO DO MISTER!!!\033[m ')
